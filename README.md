@@ -16,8 +16,9 @@ When I’m not thinking about data, I pen down my thoughts in various writing fo
 - 💬 Ask me about Excel 
 - 📫 How to reach me: dheerajsk26@gmail.com 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dheerajsk.carrd.co/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dheerajsk26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dheeraj-s-kulkarni/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dheerature/)  
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dheerajsk26&show_icons=true)  
 
