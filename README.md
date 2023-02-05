@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Dheeraj S Kulkarni
 #### Business Analyst
-![Business Analyst](https://www.linkedin.com/in/dheeraj-s-kulkarni/overlay/background-image/)
+![LinkedIn Banner](https://user-images.githubusercontent.com/77773902/216827937-1dcd9a09-4e0b-42ce-9b5c-ea394fbd1edf.png)
+
 
 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝘄𝗶𝘁𝗵 𝟮+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗮𝘁 𝗧𝗖𝗦 in banking domain and I love applying my analytical knowledge to help companies to further scale their businesses. 𝐏𝐫𝐞𝐬𝐞𝐧𝐭𝐥𝐲 𝐩𝐮𝐫𝐬𝐮𝐢𝐧𝐠 𝐦𝐚𝐬𝐭𝐞𝐫’𝐬 𝐢𝐧 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐚𝐭 𝐭𝐡𝐞 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐋𝐢𝐦𝐞𝐫𝐢𝐜𝐤, 𝐈𝐫𝐞𝐥𝐚𝐧𝐝. 
 
