@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Dheeraj S Kulkarni
-#### Business Analyst
+## Hi there 👋, my name is Dheeraj S Kulkarni
+### Business Analyst
 ![LinkedIn Banner](https://user-images.githubusercontent.com/77773902/216827937-1dcd9a09-4e0b-42ce-9b5c-ea394fbd1edf.png)
 
 
