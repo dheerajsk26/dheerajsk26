@@ -4,13 +4,23 @@
 ## Hi there 👋, my name is Dheeraj S Kulkarni
 ### Business Analyst
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-As a 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗮𝗻𝗮𝗹𝘆𝘀𝘁 𝘄𝗶𝘁𝗵 𝗼𝘃𝗲𝗿 𝟮+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 in the banking domain, I am passionate about using my analytical skills to help companies scale their businesses. My expertise lies in data cleaning, modelling, and visualization, and I am proficient in relational database management using MySQL. Additionally, I am well-versed in 𝗘𝘅𝗰𝗲𝗹, 𝗦𝗤𝗟, 𝗮𝗻𝗱 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜.
+#### About: 
+"𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗺𝗮𝗿𝗸" — that's the nickname my mom gave me during my childhood because of my insatiable curiosity and constant questioning to feed my inquisitive mind. Growing up, I enhanced the skill of asking the right questions. 
 
-When I'm not analyzing data, I enjoy writing and regularly pen down my thoughts in various formats. I also invest time in enhancing my knowledge of personal finance and the stock market, and I love exploring new places as an avid traveller.
+Fast-forward → while working as a 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝗮𝘁 𝗧𝗖𝗦 for over two years, one of my main responsibilities was retrieving data through 𝗦𝗤𝗟 and effectively conveying 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝘀 to stakeholders. This experience served as a pivotal point where my passion for data truly blossomed and took hold.
 
-As I continue to look for full-time opportunities in Business Analytics/Data Analytics (starting August-2023) for the Banking/Finance domain, please feel free to reach out to me at 𝙙𝙝𝙚𝙚𝙧𝙖𝙟𝙨𝙠26@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢 to discuss potential opportunities or collaborations.
+Right questioning mindset, curious outlook & genuine interest towards data — these are the most crucial qualities of an analyst, and I found that this is exactly where my strengths lie. However, over the years, I have developed a passion not only for data but also for creating visually appealing data viz & 𝘀𝘁𝗼𝗿𝘆𝘁𝗲𝗹𝗹𝗶𝗻𝗴 with data. I don’t want to unfold the fact, but I am more than happy to jump in with both feet and work on data for free to cultivate my skills. 
 
-𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗳𝗼𝗿 𝗳𝘂𝗹𝗹-𝘁𝗶𝗺𝗲 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀 𝗳𝗼𝗿 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀/𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝗿𝗼𝗹𝗲𝘀 𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗔𝘂𝗴𝘂𝘀𝘁 𝟮𝟬𝟮𝟯 
+I possess a deep-seated drive for taking charge and constantly developing my 𝗹𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 abilities. Whether it's organizing a trip with friends, hosting a party, being captain of the school badminton team, serving as a class representative, or leading a team at work, my natural inclination towards leadership enables me to confidently take charge and effectively manage people.
+
+When I'm not immersing myself in data analysis — you can often find me either clicking pictures, writing micro tales, poems or reading. I also invest time in enhancing my knowledge of personal finance and the stock market, and I love exploring new places. 
+
+Please feel free to contact me on LinkedIn or at dheerajsk26@gmail.com to discuss potential opportunities, photography or the stock market; we can get it done together!
+__________________________________________________________________________________________________
+
+𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀/𝗧𝗼𝗼𝗹𝘀: 
+Excel | SQL | Power BI | Tableau | Python | R | Data Modelling | Power Query | ETL | Data Analysis | Predictive Analysis | Descriptive Analysis | DAX | Data Visualization | GitHub | Jupyter Notebook | Google Sheets |GCP| BigQuery | Google Looker| Big Data | Hadoop|
+
 
 - I love Excel, SQL & Visualization 
 - 🔭 I’m currently working on my Project portoflio 
