@@ -19,7 +19,7 @@ Please feel free to contact me on LinkedIn or at dheerajsk26@gmail.com to discus
 __________________________________________________________________________________________________
 
 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀/𝗧𝗼𝗼𝗹𝘀: 
-Excel | SQL | Power BI | Tableau | Python | R | Data Modelling | Power Query | ETL | Data Analysis | Predictive Analysis | Descriptive Analysis | DAX | Data Visualization | GitHub | Jupyter Notebook | Google Sheets |GCP| BigQuery | Google Looker| Big Data | Hadoop|
+Excel | SQL | Power BI | Tableau | Python | R | Data Modelling | Power Query | ETL | Data Analysis | Predictive Analysis | Descriptive Analysis | DAX | Data Visualization | GitHub | Jupyter Notebook | Google Sheets |GCP| BigQuery | Google Looker| Big Data | Hadoop |
 __________________________________________________________________________________________________
 
 
