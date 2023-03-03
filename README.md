@@ -18,7 +18,8 @@ When I'm not immersing myself in data analysis — you can often find me either 
 Please feel free to contact me on LinkedIn or at dheerajsk26@gmail.com to discuss potential opportunities, photography or the stock market; we can get it done together!
 __________________________________________________________________________________________________
 
-𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀/𝗧𝗼𝗼𝗹𝘀: 
+𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀/𝗧𝗼𝗼𝗹𝘀:     
+
 Excel | SQL | Power BI | Tableau | Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn) | R (Tidyverse, dplyr, ggplot2) | Data Cleaning | Data Modelling | Power Query | ETL | Data Analysis | Predictive Analysis | Descriptive Analysis | DAX | Data Visualization | MS Word | GitHub | Jupyter Notebook | R Studio | Google Sheets | GCP | BigQuery | Google Looker | Big Data | Hadoop | Apache Spark | 
 __________________________________________________________________________________________________
 
