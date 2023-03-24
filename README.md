@@ -19,10 +19,10 @@ Please feel free to contact me on LinkedIn or at dheerajsk26@gmail.com to discus
 __________________________________________________________________________________________________
 
 
-𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀 & 𝗧𝗼𝗼𝗹𝘀: 
+𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀 & 𝗧𝗼𝗼𝗹𝘀:   
 Excel | SQL | Power BI | Tableau | Statistics | Python (Numpy, Pandas, Matplotlib) | R (Tidyverse, dplyr, ggplot2) | Data Cleaning | Data Modelling | Power Query | ETL | Data Analysis | Predictive Analysis | Descriptive Analysis | DAX | Data Visualization | MS Word | GitHub | Jupyter Notebook | R Studio | Google Sheets | GCP | BigQuery | Google Looker | Big Data | Hadoop |
 
-𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀:
+𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀:   
 Adaptability | Attention to detail | Communication | Collaboration | Critical thinking | Curiosity | Creativity | Leadership | Problem-solving | Storytelling | Time management |
 __________________________________________________________________________________________________
 
