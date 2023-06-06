@@ -30,6 +30,7 @@ ________________________________________________________________________________
 - I love Excel, SQL & Visualization 
 - 🔭 I’m currently working on my Project portoflio 
 - 📫 How to reach me: dheerajsk26@gmail.com
+- Resume: https://drive.google.com/file/d/10qW2BXJNEweqNNoE9eO6RICS_lsTXdOG/view?usp=drive_link
 - Portfolio website: https://dheerajsk.carrd.co/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dheerajsk.carrd.co/)
