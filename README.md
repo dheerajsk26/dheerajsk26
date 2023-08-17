@@ -26,7 +26,7 @@ ________________________________________________________________________________
 - I am crazy about Excel, SQL & Data Visualization
 - 🔭 I’m currently working on my Project Portfolio 
 - 📫 How to reach me: dheerajsk26@gmail.com
-- Resume: https://drive.google.com/file/d/1FRqjrZd5GZFOMHrcH7HG_rKpkkZOT5rH/view?usp=drive_link
+- Resume: https://drive.google.com/file/d/1cEm3aGy0tJK3pZ_9ejXL-ItWv3DSZtof/view?usp=sharing
 - Portfolio website: https://dheerajsk.carrd.co/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dheerajsk.carrd.co/)
