@@ -2,7 +2,7 @@
 
 
 ## Hi there 👋, my name is Dheeraj S Kulkarni
-### Business Analyst/Data Analyst
+### Data Analyst/Business Analyst
 ----------------------------------------------------------------------------------------------------------------------------------
 #### About: 
 
