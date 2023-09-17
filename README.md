@@ -12,7 +12,7 @@ Fast-forward → While working as a 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗔𝗻�
 
 Right questioning mindset, curious outlook & genuine interest towards data — these are the most crucial qualities of an analyst, and I found that this is exactly where my strengths lie. However, over the years, I have developed a passion not only for data but also for creating visually appealing 𝗱𝗮𝘁𝗮 𝘃𝗶𝘇 & 𝘀𝘁𝗼𝗿𝘆𝘁𝗲𝗹𝗹𝗶𝗻𝗴 with data. And, I'm an 𝗘𝘅𝗰𝗲𝗹 Enthusiast too ('Cell' promise😅)
 
-I possess a deep-seated drive for taking charge and constantly develop my 𝗹𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 abilities. Whether it's organizing a trip with friends, hosting a party, being captain of the school badminton team, serving as a class representative, or leading a team at work, my natural inclination towards leadership enables me to confidently take charge and effectively manage people.
+I possess a deep-seated drive to take charge and constantly develop my 𝗹𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 abilities. Whether it's organizing a trip with friends, hosting a party, being captain of the school badminton team, serving as a class representative, or leading a team at work, my natural inclination towards leadership enables me to confidently take charge and effectively manage people.
 
 When I'm not immersing myself in data analysis — you can often find me either clicking pictures, writing micro tales, poems or reading. I also invest time in enhancing my knowledge of personal finance and the stock market, and I love exploring new places. 
 
@@ -20,14 +20,19 @@ Please feel free to contact me here on LinkedIn or at 𝙙𝙝𝙚𝙚𝙧𝙖�
 _____________________________________________________
 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀: 
 
-Excel | SQL | Power BI | Tableau | Statistics | Python (Numpy, Pandas, Matplotlib) | R (Tidyverse, dplyr, ggplot2) | Data Cleaning | Data Modelling | Power Query | ETL | Data Analysis | Predictive Analysis | Descriptive Analysis | DAX | Data Visualization | MS Word | GitHub | Jupyter Notebook | R Studio | Google Sheets | GCP | Big Data | Hadoop | Software Documentation | Requirements Gathering | Requirements Analysis | Business Process | Stakeholder Management | Project Management | Jira | Confluence | Trello | Software Develpoment Life Cycle (SDLC) | Agile Methodologies (Scrum & Kanban) | Lean Six Sigma White Belt
+SQL | Excel | Power BI | Tableau | Statistics | Python (Numpy, Pandas, Matplotlib) | R | Power Query | ETL | DAX |
+Data Cleaning | Data Preprocessing | Data Analysis | Data Interpretation | Data Visualization | Data Modeling |
+Machine Learning | Predictive Analytics | Database Management | Data Extraction | Data Manipulation | Data
+Warehouse | Google Sheets | GCP | Hadoop | Data Storytelling | Problem Solving | Critical Thinking |
+Communication Skills | Time Management | Project Management | Data Mining | Data Warehousing | A/B Testing |
+GitHub | Jupyter Notebooks | Jira | Confluence | Agile Methodologies (Scrum & Kanban)
 __________________________________________________________________________________________________
 
 
-- I am crazy about Excel, SQL & Data Visualization
-- 🔭 I’m currently working on my Project Portfolio 
+- I am passionate about Excel, SQL & Data Visualization
+- 🔭 I’m currently searching for a full-time Data Analyst/ Business Analyst role in Ireland
 - 📫 How to reach me: dheerajsk26@gmail.com
-- Resume: https://drive.google.com/file/d/1cEm3aGy0tJK3pZ_9ejXL-ItWv3DSZtof/view?usp=sharing
+- Resume: https://drive.google.com/file/d/1scyeKme-IpNk-u_IdzCDnHQMzVze1Cpz/view?usp=sharing
 - Portfolio website: https://dheerajsk.carrd.co/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dheerajsk.carrd.co/)
