@@ -21,19 +21,15 @@ _____________________________________________________
 
 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀: 
 
-SQL | Excel | Power BI | Tableau | Statistics | Python (Numpy, Pandas, Matplotlib) | R | Power Query | ETL | DAX |
-Data Cleaning | Data Preprocessing | Data Analysis | Data Interpretation | Data Visualization | Data Modeling |
-Machine Learning | Predictive Analytics | Database Management | Data Extraction | Data Manipulation | Data
-Warehouse | Google Sheets | GCP | Hadoop | Data Storytelling | Problem Solving | Critical Thinking |
-Communication Skills | Time Management | Project Management | Data Mining | Data Warehousing | A/B Testing |
-GitHub | Jupyter Notebooks | Jira | Confluence | Agile Methodologies (Scrum & Kanban)
+Tools: Excel, Power BI, Tableau, Power Query, Google Sheets, GitHub, Jupyter Notebooks, Jira, Confluence, GCP, AWS (IAM, EC2, S3, RDS), Agile Methodologies (Scrum & Kanban)
+Programming & Scripting: SQL, Python (Numpy, Pandas, Matplotlib), R (Tidyverse, dplyr, ggplot2), DAX
+Data & Analytics: Statistics, Machine Learning, Data Extraction, Data Cleaning, Data Preprocessing, Data Manipulation, Data Modeling, Data Analysis, Data Visualization, Predictive & Descriptive Analysis, Database Management, Data Warehouse, ETL, A/B Testing, Data Storytelling
+Soft Skills: Leadership, Problem-Solving, Critical Thinking, Communication Skills, Collaboration, Time Management 
 __________________________________________________________________________________________________
 
-
-- I am passionate about Excel, SQL & Data Visualization
-- 🔭 I’m currently searching for a full-time Data Analyst/ Business Analyst role in Ireland
+- 🔭 Currently Looking for a full-time Data Analyst/ Business Analyst role in Ireland
 - 📫 How to reach me: dheerajsk26@gmail.com
-- Resume: https://drive.google.com/file/d/1scyeKme-IpNk-u_IdzCDnHQMzVze1Cpz/view?usp=sharing
+- Resume: https://drive.google.com/file/d/1ol_unTyw_yCOsPMOMyc_mp3m6nFHYax4/view?usp=sharing
 - Portfolio website: https://dheerajsk.carrd.co/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dheerajsk.carrd.co/)
