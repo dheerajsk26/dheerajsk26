@@ -22,8 +22,11 @@ _____________________________________________________
 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀: 
 
 Tools: Excel, Power BI, Tableau, Power Query, Google Sheets, GitHub, Jupyter Notebooks, Jira, Confluence, GCP, AWS (IAM, EC2, S3, RDS), Agile Methodologies (Scrum & Kanban)
+
 Programming & Scripting: SQL, Python (Numpy, Pandas, Matplotlib), R (Tidyverse, dplyr, ggplot2), DAX
+
 Data & Analytics: Statistics, Machine Learning, Data Extraction, Data Cleaning, Data Preprocessing, Data Manipulation, Data Modeling, Data Analysis, Data Visualization, Predictive & Descriptive Analysis, Database Management, Data Warehouse, ETL, A/B Testing, Data Storytelling
+
 Soft Skills: Leadership, Problem-Solving, Critical Thinking, Communication Skills, Collaboration, Time Management 
 __________________________________________________________________________________________________
 
