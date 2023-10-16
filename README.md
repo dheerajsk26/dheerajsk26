@@ -21,13 +21,10 @@ _____________________________________________________
 
 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀: 
 
-Tools: Excel, Power BI, Tableau, Power Query, Google Sheets, GitHub, Jupyter Notebooks, Jira, Confluence, GCP, AWS (IAM, EC2, S3, RDS), Agile Methodologies (Scrum & Kanban)
-
-Programming & Scripting: SQL, Python (Numpy, Pandas, Matplotlib), R (Tidyverse, dplyr, ggplot2), DAX
-
-Data & Analytics: Statistics, Machine Learning, Data Extraction, Data Cleaning, Data Preprocessing, Data Manipulation, Data Modeling, Data Analysis, Data Visualization, Predictive & Descriptive Analysis, Database Management, Data Warehouse, ETL, A/B Testing, Data Storytelling
-
-Soft Skills: Leadership, Problem-Solving, Critical Thinking, Communication Skills, Collaboration, Time Management 
+𝗧𝗼𝗼𝗹𝘀: Excel, Power BI, Tableau, Power Query, Google Sheets, GitHub, Jupyter Notebooks, Jira, Confluence, GCP, AWS (IAM, EC2, S3, RDS), Agile Methodologies (Scrum & Kanban)   
+𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 & 𝗦𝗰𝗿𝗶𝗽𝘁𝗶𝗻𝗴: SQL, Python (Numpy, Pandas, Matplotlib), R (Tidyverse, dplyr, ggplot2), DAX   
+𝗗𝗮𝘁𝗮 & 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀: Statistics, Machine Learning, Data Extraction, Data Cleaning, Data Preprocessing, Data Manipulation, Data Modeling, Data Analysis, Data Visualization, Predictive and descriptive Analysis, Database Management, Data Warehouse, ETL, A/B Testing, Data Storytelling   
+𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀: Leadership, Problem-Solving, Critical Thinking, Communication Skills, Collaboration, Time Management    
 __________________________________________________________________________________________________
 
 - 🔭 Currently Looking for a full-time Data Analyst/ Business Analyst role in Ireland
@@ -42,6 +39,8 @@ ________________________________________________________________________________
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dheerajsk26&show_icons=true)  
 
 
+𝗔𝗻 𝗨𝗻𝗳𝗼𝗿𝗴𝗲𝘁𝘁𝗮𝗯𝗹𝗲 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻: 
+<img width="602" alt="Recommendation by Annmarie" src="https://github.com/dheerajsk26/dheerajsk26/assets/77773902/4fa6498b-0042-4229-878e-260902434af7">
 
 
 
