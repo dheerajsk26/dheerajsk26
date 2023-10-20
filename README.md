@@ -30,8 +30,8 @@ ________________________________________________________________________________
 
 - 🔭 Currently Looking for a full-time Data Analyst/ Business Analyst role in Ireland
 - 📫 How to reach me: dheerajsk26@gmail.com
-- Resume: https://drive.google.com/file/d/1ol_unTyw_yCOsPMOMyc_mp3m6nFHYax4/view?usp=sharing
-- Portfolio website: https://dheerajsk.carrd.co/
+- [Resume] (https://drive.google.com/file/d/1ol_unTyw_yCOsPMOMyc_mp3m6nFHYax4/view?usp=sharing)
+- [Project Portfolio] (https://dheerajsk.carrd.co/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dheerajsk.carrd.co/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dheerajsk26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dheeraj-s-kulkarni/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dheerature/)  
