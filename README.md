@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 - 🔭 Currently Looking for a full-time Data Analyst/ Business Analyst role in Ireland
 - 📫 How to reach me: dheerajsk26@gmail.com
-- [Resume](https://drive.google.com/file/d/1ol_unTyw_yCOsPMOMyc_mp3m6nFHYax4/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1s68Yvy37Geq7l1lEWi0KT0s3PXtLSKL0/view?usp=sharing)
 - [Project Portfolio](https://dheerajsk.carrd.co/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dheerajsk.carrd.co/)
