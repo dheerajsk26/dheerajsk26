@@ -18,7 +18,13 @@ I possess a deep-seated drive to take charge and constantly develop my 𝗹𝗲�
 When I'm not immersing myself in data analysis — you can often find me either clicking pictures, writing micro tales, poems or reading. I also invest time in enhancing my knowledge of personal finance and the stock market, and I love exploring new places. 
 
 Please feel free to contact me here on LinkedIn or at 𝙙𝙝𝙚𝙚𝙧𝙖𝙟𝙨𝙠26@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢 to discuss potential opportunities, photography or the stock market; we can get it done together!
-_____________________________________________________
+__________________________________________________________________________________________________
+
+𝗔𝗰𝗰𝗼𝗺𝗽𝗹𝗶𝘀𝗵𝗺𝗲𝗻𝘁𝘀: 
+* AWS Certified Cloud Practitioner
+* Microsoft Certified Excel Expert 
+
+__________________________________________________________________________________________________
 
 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀: 
 
@@ -30,7 +36,7 @@ ________________________________________________________________________________
 
 - 🔭 Currently Looking for a full-time Data Analyst/ Business Analyst role in Ireland
 - 📫 How to reach me: dheerajsk26@gmail.com
-- [Resume](https://drive.google.com/file/d/1s68Yvy37Geq7l1lEWi0KT0s3PXtLSKL0/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1wy4Yp9Gz5jMExy_cLOi5mal2L_jiVeLp/view?usp=sharing)
 - [Project Portfolio](https://dheerajsk.carrd.co/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dheerajsk.carrd.co/)
