@@ -43,9 +43,6 @@ ________________________________________________________________________________
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dheerajsk26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dheeraj-s-kulkarni/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dheerature/)  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dheerajsk26&show_icons=true)  
-
-
   
 <img width="602" alt="Recommendation by Annmarie" src="https://github.com/dheerajsk26/dheerajsk26/assets/77773902/34cfb672-138c-49a8-bd7f-22370714670e">
 
