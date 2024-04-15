@@ -36,8 +36,8 @@ ________________________________________________________________________________
 𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀: Attention to detail, Adaptability, Curiosity, Creativity, Leadership, Problem-Solving, Critical Thinking, Communication Skills, Collaboration, Time Management    
 __________________________________________________________________________________________________
 
-- 🔭 Currently Looking for a full-time Data Analyst/ Business Analyst role in Ireland
-- 📫 How to reach me: dheerajsk26@gmail.com
+- **Currently Looking for a full-time Data Analyst/Business Analyst role in Ireland**
+- Mail: dheerajsk26@gmail.com
 - [Resume](https://drive.google.com/file/d/1g4J-2aRsjXYxJXy9qsu4Opgee4kVsGUv/view?usp=sharing)
 - [Project Portfolio](https://dheerajsk.carrd.co/)
 
