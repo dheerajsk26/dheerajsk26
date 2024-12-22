@@ -1,9 +1,10 @@
-![LinkedIn Banner-1](https://github.com/dheerajsk26/dheerajsk26/assets/77773902/4c96e57a-c72b-4acf-aaa0-f1c48271df1f)
+![LinkedIn Banner-4](https://github.com/user-attachments/assets/ed41cf31-b974-4da7-99a4-10f2999e745a)
+
 
 
 
 ## Hi there 👋, my name is Dheeraj S Kulkarni
-### Data Analyst/Business Analyst
+### Data Analyst
 ----------------------------------------------------------------------------------------------------------------------------------
 #### About: 
 
