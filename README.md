@@ -14,10 +14,10 @@ When I'm not immersing myself in data analysis, you can often find me clicking p
 ______________________________________________
 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀:
 
-𝗧𝗼𝗼𝗹𝘀: Excel, Power BI, Tableau, Power Query, Google Sheets, GitHub, Jupyter Notebooks, GCP, AWS (IAM, EC2, S3, RDS), Azure, Snowflake, Agile Methodologies (Scrum & Kanban), Jira, Confluence, Trello
-𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 & 𝗦𝗰𝗿𝗶𝗽𝘁𝗶𝗻𝗴: SQL, Python (Numpy, Pandas, Matplotlib), R (Tidyverse, dplyr, ggplot2), DAX
-𝗗𝗮𝘁𝗮 & 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀: Statistics, Machine Learning, Data Extraction, Data Cleaning, Data Preprocessing, Data Manipulation, Data Modeling, Data Analysis, Data Visualization, Predictive and descriptive Analysis, Database Management, Data Warehouse, ETL, A/B Testing, Data Storytelling
-𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀: Leadership, Problem-Solving, Critical Thinking, Communication Skills, Collaboration, Time Management
+𝗧𝗼𝗼𝗹𝘀: Excel, Power BI, Tableau, Power Query, Google Sheets, GitHub, Jupyter Notebooks, GCP, AWS (IAM, EC2, S3, RDS), Azure, Snowflake, Agile Methodologies (Scrum & Kanban), Jira, Confluence, Trello  
+𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 & 𝗦𝗰𝗿𝗶𝗽𝘁𝗶𝗻𝗴: SQL, Python (Numpy, Pandas, Matplotlib), R (Tidyverse, dplyr, ggplot2), DAX  
+𝗗𝗮𝘁𝗮 & 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀: Statistics, Machine Learning, Data Extraction, Data Cleaning, Data Preprocessing, Data Manipulation, Data Modeling, Data Analysis, Data Visualization, Predictive and descriptive Analysis, Database Management, Data Warehouse, ETL, A/B Testing, Data Storytelling  
+𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀: Leadership, Problem-Solving, Critical Thinking, Communication Skills, Collaboration, Time Management  
 __________________________________________________________________________________________________
 𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗔𝗰𝗰𝗼𝗺𝗽𝗹𝗶𝘀𝗵𝗺𝗲𝗻𝘁𝘀:
 
