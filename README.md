@@ -1,4 +1,5 @@
-![LinkedIn Banner](https://github.com/user-attachments/assets/dd3cefb8-2606-43c1-a4db-e83338d327ef)
+![LinkedIn Banner](https://github.com/user-attachments/assets/740b21af-f8e4-4817-98b0-2ce63778d3a0)
+
 
 ## Hi there 👋, my name is Dheeraj S Kulkarni
 ### Data Analyst / Data Engineer
@@ -21,7 +22,7 @@ ______________________________________________
 __________________________________________________________________________________________________
 𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗔𝗰𝗰𝗼𝗺𝗽𝗹𝗶𝘀𝗵𝗺𝗲𝗻𝘁𝘀:
 
-* AWS Certified Cloud Practitioner and Hands-on Essentials Snowflake Badge.  
+* AWS Certified Cloud Practitioner, AI Practitioner and Hands-on Essentials Snowflake Badge.  
 * Microsoft Certified: Excel Expert, Azure Fundamentals, and Data Fundamentals.  
 * Won the Student Of The Year award in Leadership by the Confederation of Indian Communities in Ireland.  
 * Recipient of the President’s Volunteer Award (Gold) for showcasing outstanding leadership and communication skills  
@@ -30,9 +31,9 @@ as the CR for the Business Analytics class during the academic year 2022-
 
 __________________________________________________________________________________________________
 
-- **Currently Looking for a full-time Data Analyst/Business Analyst role in Ireland/India**
+- **Currently looking for a full-time Data Analyst/Business Analyst role in Ireland/India**
 - Mail: dheerajsk26@gmail.com
-- [Resume](https://drive.google.com/file/d/1F_Xi1qUNLNsyWJ7P2_7Mny7BtRRo9V4o/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1Es3OZJD03spJsZAy13ouRRWRyvLw--M9/view?usp=sharing)
 - [Project Portfolio](https://dheerajsk.carrd.co/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dheerajsk.carrd.co/)
