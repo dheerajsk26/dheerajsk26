@@ -22,16 +22,16 @@ ______________________________________________
 __________________________________________________________________________________________________
 𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗔𝗰𝗰𝗼𝗺𝗽𝗹𝗶𝘀𝗵𝗺𝗲𝗻𝘁𝘀:
 
-* AWS Certified Cloud Practitioner, AI Practitioner and Hands-on Essentials Snowflake Badge.  
-* Microsoft Certified: Excel Expert, Azure Fundamentals, and Data Fundamentals.  
-* Won the Student Of The Year award in Leadership by the Confederation of Indian Communities in Ireland.  
-* Recipient of the President’s Volunteer Award (Gold) for showcasing outstanding leadership and communication skills  
-as the CR for the Business Analytics class during the academic year 2022-
-'24.
-
+* AWS Certified: Cloud Practitioner and AI Practitioner.
+* Microsoft Certified: Excel Expert, Power BI Data Analyst, Azure Fundamentals, and Data Fundamentals.
+* Snowflake Certified: Hands-on Essentials Snowflake Badge and SnowPro® Associate: Platform Certification.
+* Won the Student Of The Year award in Leadership by the Confederation of Indian Communities in Ireland.
+* Recipient of the President’s Volunteer Award (Gold) for showcasing outstanding leadership and
+communication skills as the CR for the Business Analytics class during the academic year 2022-
+'24. 
 __________________________________________________________________________________________________
 
-- **Currently looking for a full-time Data Analyst/Business Analyst role in India**
+- **Currently looking for a full-time Data Analyst/Business Analyst role in Bengaluru, India**
 - Mail: dheerajsk26@gmail.com
 - [Project Portfolio](https://dheerajsk.carrd.co/)
 
