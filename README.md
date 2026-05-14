@@ -2,25 +2,35 @@
 
 
 ## Hi there 👋, my name is Dheeraj S Kulkarni
-### Data Analyst / Data Engineer
+### Data Analytics and Engineer
 ----------------------------------------------------------------------------------------------------------------------------------
 #### About: 
 
-𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝘄𝗶𝘁𝗵 4 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 in agile environments within banking and e-commerce domains, 𝗵𝗼𝗹𝗱𝗶𝗻𝗴 𝗮𝗻 𝗠𝗦 𝗶𝗻 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗟𝗶𝗺𝗲𝗿𝗶𝗰𝗸, 𝗜𝗿𝗲𝗹𝗮𝗻𝗱. Skilled at translating complex data into actionable insights for stakeholders, including bank executives, managers, and development teams. Known for a strong analytical and problem-solving mindset, with expertise in data analysis, BI tools, data warehousing, and cloud platforms. Proven ability to drive data-informed decision-making and optimize processes to achieve strategic business outcomes. 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱 𝗶𝗻 𝗔𝗪𝗦 𝗮𝗻𝗱 𝗔𝘇𝘂𝗿𝗲, 𝗱𝗲𝗺𝗼𝗻𝘀𝘁𝗿𝗮𝘁𝗶𝗻𝗴 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲 𝗶𝗻 𝗺𝘂𝗹𝘁𝗶-𝗰𝗹𝗼𝘂𝗱 𝗱𝗮𝘁𝗮 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀.
+Data Analyst with ~4 years of total work experience in agile environments in the banking domain, holding an MS in Business Analytics from the University of Limerick, Ireland. Adept at translating complex data into actionable insights for key stakeholders. Skilled in data analysis, BI tools, and cloud platforms, with a strong foundation in data engineering and data warehousing. 8x certified across AWS, Azure, Snowflake, Databricks, Excel, and Power BI, demonstrating expertise in multi-cloud data platforms and a strong analytical mindset.
 
-I possess a deep-seated drive for taking charge and constantly developing my 𝗹𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 abilities. Whether it's organizing a trip with friends, hosting a party, being captain of the school badminton team, serving as a class representative, or leading a team at work, my natural inclination towards leadership enables me to confidently take charge and effectively manage people.
+I possess a deep-seated drive for taking charge and constantly develop my leadership abilities. Whether it's organising a trip with friends, hosting a party, being captain of the school badminton team, serving as a class representative, or leading a team at work, my natural inclination towards leadership enables me to confidently take charge and effectively manage people.
 
-When I'm not immersing myself in data analysis, you can often find me clicking pictures, writing micro tales and poems, or reading. I also invest time in enhancing my knowledge of personal finance and the stock market, and I love exploring new places. 
+When I'm not immersing myself in data analysis, you can often find me either clicking pictures, writing micro tales, poems or reading. I also invest time in enhancing my knowledge of personal finance and the stock market, and I love exploring new places. 
+
+Please feel free to contact me here on LinkedIn to discuss potential opportunities, photography or the stock market; we can get it done together!
 
 ______________________________________________
-𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀:
 
-𝗧𝗼𝗼𝗹𝘀: Excel, Power BI, Tableau, Power Query, Google Sheets, GitHub, Jupyter Notebooks, GCP, AWS (IAM, EC2, S3, RDS), Azure, Snowflake, Agile Methodologies (Scrum & Kanban), Jira, Confluence, Trello  
-𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 & 𝗦𝗰𝗿𝗶𝗽𝘁𝗶𝗻𝗴: SQL, Python (Numpy, Pandas, Matplotlib), R (Tidyverse, dplyr, ggplot2), DAX  
-𝗗𝗮𝘁𝗮 & 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀: Statistics, Machine Learning, Data Extraction, Data Cleaning, Data Preprocessing, Data Manipulation, Data Modelling, Data Analysis, Data Visualization, Predictive and descriptive Analysis, Database Management, Data Warehouse, ETL, A/B Testing, Data Storytelling  
-𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀: Leadership, Problem-Solving, Critical Thinking, Communication Skills, Collaboration, Time Management  
+𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀 
+
+Tools: Excel, Power Query, Power BI, Tableau, Google Docs, Google Sheets, GitHub, Jupyter Notebooks, Jira, Confluence, Linux, MS Word, MS PowerPoint, Notion, Prompt Engineering
+
+Cloud Services, Databases and Data Warehouses: AWS (IAM, EC2, S3, RDS, Glue, Athena), Azure(Azure Data Factory, ADLS), MySQL, Snowflake, Apache Spark, Databricks
+
+SDLC methodologies: Waterfall, Agile (Scrum and Kanban)
+
+Programming & Scripting: SQL, DAX, Python (Numpy, Pandas, Matplotlib, Seaborn), PySpark and Big Data basics
+
+Data & Analytics: Statistics, Machine Learning, Data Modelling, Exploratory Data Analysis, Data Visualisation, Predictive & Descriptive Analysis, ETL, A/B Testing, Data Storytelling
+
+Soft Skills: Leadership, Problem-Solving, Critical Thinking, Root-Cause Analysis, Communication Skills, Collaboration 
 __________________________________________________________________________________________________
-𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗔𝗰𝗰𝗼𝗺𝗽𝗹𝗶𝘀𝗵𝗺𝗲𝗻𝘁𝘀:
+𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗔𝗰𝗰𝗼𝗺𝗽𝗹𝗶𝘀𝗵𝗺𝗲𝗻𝘁𝘀
 
 * AWS Certified: Cloud Practitioner and AI Practitioner.
 * Microsoft Certified: Excel Expert, Power BI Data Analyst, Azure Fundamentals, and Data Fundamentals.
