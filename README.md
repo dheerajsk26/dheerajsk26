@@ -1,14 +1,15 @@
-![LinkedIn Banner](https://github.com/user-attachments/assets/740b21af-f8e4-4817-98b0-2ce63778d3a0)
+<img width="4950" height="1238" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/a8e66b98-57f4-4539-994f-d2a0e52aed0b" />
+
 
 
 ## Hi there 👋, my name is Dheeraj S Kulkarni
-### Data Analytics and Engineer
+### Data Analytics and Engineering
 ----------------------------------------------------------------------------------------------------------------------------------
 #### About: 
 
 Data Analyst with ~4 years of total work experience in agile environments in the banking domain, holding an MS in Business Analytics from the University of Limerick, Ireland. Adept at translating complex data into actionable insights for key stakeholders. Skilled in data analysis, BI tools, and cloud platforms, with a strong foundation in data engineering and data warehousing. 8x certified across AWS, Azure, Snowflake, Databricks, Excel, and Power BI, demonstrating expertise in multi-cloud data platforms and a strong analytical mindset.
 
-I possess a deep-seated drive for taking charge and constantly develop my leadership abilities. Whether it's organising a trip with friends, hosting a party, being captain of the school badminton team, serving as a class representative, or leading a team at work, my natural inclination towards leadership enables me to confidently take charge and effectively manage people.
+I possess a deep-seated drive to take charge and constantly develop my leadership abilities. Whether it's organising a trip with friends, hosting a party, being captain of the school badminton team, serving as a class representative, or leading a team at work, my natural inclination towards leadership enables me to confidently take charge and effectively manage people.
 
 When I'm not immersing myself in data analysis, you can often find me either clicking pictures, writing micro tales, poems or reading. I also invest time in enhancing my knowledge of personal finance and the stock market, and I love exploring new places. 
 
